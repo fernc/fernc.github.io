@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cats"
+date:   2015-06-26 16:18:51
+categories: cats
+---
+Is this working?
+
+<img src="/assets/cowboy-bebop-iphone-wallpaper-awesome.jpg" alt="test" height ="300" width="600"/>
+
+<!---
+images in markdown
+![cats](/assets/cowboy-bebop-iphone-wallpaper-awesome.jpg)
+--->
