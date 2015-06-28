@@ -4,11 +4,37 @@
     <title>Craig Blug</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 21:01:53 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 21:01:53 -0400</lastBuildDate>
+    <link>http://fernc.github.io/</link>
+    <atom:link href="http://fernc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jun 2015 22:15:45 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 22:15:45 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Todo</title>
+        <description>&lt;p&gt;List of things to get a job&lt;/p&gt;
+
+&lt;!--- 
+&lt;s&gt;Create personal site&lt;/s&gt;
+ ---&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create personal site&lt;/li&gt;
+  &lt;li&gt;Design and  Create atleast 4 sites for portfolio&lt;/li&gt;
+  &lt;li&gt;Mockup 2 iphone apps&lt;/li&gt;
+  &lt;li&gt;Learn deployment with digitalocean and chef&lt;/li&gt;
+  &lt;li&gt;Read javascript and css berk&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 27 Jun 2015 18:05:51 -0400</pubDate>
+        <link>http://fernc.github.io/testing/2015/06/27/To-do-list.html</link>
+        <guid isPermaLink="true">http://fernc.github.io/testing/2015/06/27/To-do-list.html</guid>
+        
+        
+        <category>testing</category>
+        
+      </item>
     
       <item>
         <title>Cats</title>
@@ -22,8 +48,8 @@ images in markdown
 ---&gt;
 </description>
         <pubDate>Fri, 26 Jun 2015 12:18:51 -0400</pubDate>
-        <link>http://yourdomain.com/cats/2015/06/26/ayy-lmao.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/cats/2015/06/26/ayy-lmao.html</guid>
+        <link>http://fernc.github.io/cats/2015/06/26/ayy-lmao.html</link>
+        <guid isPermaLink="true">http://fernc.github.io/cats/2015/06/26/ayy-lmao.html</guid>
         
         
         <category>cats</category>
@@ -48,8 +74,8 @@ images in markdown
 
 </description>
         <pubDate>Fri, 26 Jun 2015 09:18:51 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/26/welcome-to-jekyll.html</guid>
+        <link>http://fernc.github.io/jekyll/update/2015/06/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://fernc.github.io/jekyll/update/2015/06/26/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

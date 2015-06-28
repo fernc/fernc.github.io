@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Todo"
+date:   2015-06-27 22:05:51
+categories: testing
+---
+List of things to get a job
+
+<!--- 
+<s>Create personal site</s>
+ --->
+
+- Create personal site
+- Design and  Create atleast 4 sites for portfolio
+- Mockup 2 iphone apps
+- Learn deployment with digitalocean and chef
+- Read javascript and css berk
+
+
